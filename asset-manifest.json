@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a1451770.css",
+    "main.js": "/static/js/main.290c45ce.js",
+    "static/js/787.d41581a5.chunk.js": "/static/js/787.d41581a5.chunk.js",
+    "static/media/cloudBg.png": "/static/media/cloudBg.2e48d372e25ecd70ef83.png",
+    "static/media/darkCloud.png": "/static/media/darkCloud.2e48d372e25ecd70ef83.png",
+    "static/media/plane.png": "/static/media/plane.5ac28c1bde18a6ecdd74.png",
+    "static/media/reviewWhiteCloud.png": "/static/media/reviewWhiteCloud.cf94f4ada423891a3417.png",
+    "static/media/immigration.png": "/static/media/immigration.cb25a9e635e92e51f643.png",
+    "static/media/box1.png": "/static/media/box1.eec98f91bd81ab90d0c5.png",
+    "static/media/box2.png": "/static/media/box2.b92027513b6d4f6e93d9.png",
+    "static/media/box3.png": "/static/media/box3.1dac1a92fd5446826a0f.png",
+    "static/media/whiteCloud.png": "/static/media/whiteCloud.3f2e6053c3100a981ece.png",
+    "static/media/business.png": "/static/media/business.2e01c66ad5d119d63936.png",
+    "static/media/visa.svg": "/static/media/visa.1b24222b39129c013eac5938013ec44d.svg",
+    "static/media/leaves.png": "/static/media/leaves.1e3e29b959fa0b3c196b.png",
+    "static/media/logo.svg": "/static/media/logo.0c5ec35ba05cc106d851d8ce70ab14f1.svg",
+    "static/media/footer-logo.svg": "/static/media/footer-logo.9c34bea7647bc4a46ff8bdd549891656.svg",
+    "static/media/rupay.svg": "/static/media/rupay.2f92a97a61e99e82414d24ff4e3e1579.svg",
+    "index.html": "/index.html",
+    "static/media/Date.svg": "/static/media/Date.331e6654ef58303af1d0a0ff5221ba7c.svg",
+    "static/media/check-1.svg": "/static/media/check-1.031fd696ebc6438d351d.svg",
+    "static/media/closeFaqIcon.svg": "/static/media/closeFaqIcon.dd4ae362799d2bbd8cb6.svg",
+    "static/media/collapsedIcon.svg": "/static/media/collapsedIcon.988008d8e2d22190b4aa.svg",
+    "static/media/arrowicon.svg": "/static/media/arrowicon.a1ac28d45a3bf13cc9093765c82a5b4b.svg",
+    "static/media/arrowIcon.svg": "/static/media/arrowIcon.9485c6f1bdfdb86548c1.svg",
+    "static/media/arrow.svg": "/static/media/arrow.6f8452f76c486ad9cac8.svg",
+    "main.a1451770.css.map": "/static/css/main.a1451770.css.map",
+    "main.290c45ce.js.map": "/static/js/main.290c45ce.js.map",
+    "787.d41581a5.chunk.js.map": "/static/js/787.d41581a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1451770.css",
+    "static/js/main.290c45ce.js"
+  ]
+}
