@@ -1,8 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.05d111fa.css",
-    "main.js": "/static/js/main.fbc63dc6.js",
+    "main.css": "/static/css/main.2b42836f.css",
+    "main.js": "/static/js/main.f5f4dfd1.js",
     "static/js/787.d41581a5.chunk.js": "/static/js/787.d41581a5.chunk.js",
+    "static/media/ctaBg.png": "/static/media/ctaBg.da4ec0c24f6d9ff71757.png",
+    "static/media/rcicPage-bg.png": "/static/media/rcicPage-bg.bf067ffb6e1578ba6a1f.png",
+    "static/media/image.png": "/static/media/image.7063926414fef7c3bf46.png",
+    "static/media/bottom clouds.png": "/static/media/bottom clouds.fc223c483d61acb3539b.png",
     "static/media/cloudBg.png": "/static/media/cloudBg.2e48d372e25ecd70ef83.png",
     "static/media/darkCloud.png": "/static/media/darkCloud.2e48d372e25ecd70ef83.png",
     "static/media/plane.png": "/static/media/plane.5ac28c1bde18a6ecdd74.png",
@@ -26,12 +30,13 @@
     "static/media/arrowicon.svg": "/static/media/arrowicon.a1ac28d45a3bf13cc9093765c82a5b4b.svg",
     "static/media/arrowIcon.svg": "/static/media/arrowIcon.9485c6f1bdfdb86548c1.svg",
     "static/media/arrow.svg": "/static/media/arrow.6f8452f76c486ad9cac8.svg",
-    "main.05d111fa.css.map": "/static/css/main.05d111fa.css.map",
-    "main.fbc63dc6.js.map": "/static/js/main.fbc63dc6.js.map",
+    "static/media/Ellipse.svg": "/static/media/Ellipse.0273df8fc548951fd8fd5f24daf9db1e.svg",
+    "main.2b42836f.css.map": "/static/css/main.2b42836f.css.map",
+    "main.f5f4dfd1.js.map": "/static/js/main.f5f4dfd1.js.map",
     "787.d41581a5.chunk.js.map": "/static/js/787.d41581a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.05d111fa.css",
-    "static/js/main.fbc63dc6.js"
+    "static/css/main.2b42836f.css",
+    "static/js/main.f5f4dfd1.js"
   ]
 }
